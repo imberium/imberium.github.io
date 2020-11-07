@@ -4,7 +4,7 @@ layout: default
 
 ## Projects
 
-<img src="{{site.baseurl}}/{{site.cypriot-logo}}">
+<img class="noround-picture" src="{{site.baseurl}}/{{site.cypriot-logo}}">
 
 * **CyprIoT**
 [https://github.com/atlanmod/CyprIoT/](https://github.com/atlanmod/CyprIoT/)
