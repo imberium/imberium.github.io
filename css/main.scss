@@ -4,6 +4,7 @@
 // Customization Variables
 
 $accent: #FF0F00;
+$image-size2: 160px;
 $image-size: 100px;
 
 $max-width: 740px;
@@ -200,8 +201,7 @@ code {
         font-style: italic;
     }
     .noround-picture {
-        height: $image-size;
-        width: $image-size;
+        width: $image-size2;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
