@@ -1,12 +1,11 @@
-title: Parchment
-author: pro-panda
-subtitle: A minimal jekyll theme
+title: imberium
+author: imberium
 
 url: "https://imberium.github.io"
 baseurl: "/"
 
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+footer_url: ""
+footer_text: ""
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
@@ -17,6 +16,10 @@ sass:
     sass_dir: css
 
 navbar:
+ - name: "Projects"
+   link: "projects"
+ - name: "Publications"
+   link: "publications" 
  - name: "About"
    link: "about"
  - name: "Resume"
